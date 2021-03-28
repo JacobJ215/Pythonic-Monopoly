@@ -1,6 +1,6 @@
 # Pythonic-Monopoly
 
-![Rent vs Price](rent-vesus-price.png)
+![Rent vs Price](rent-versus-price.png)
 
 ## About
 
